@@ -23,6 +23,6 @@ This project analyzes the Superstore sales dataset to identify top-performing pr
 ##  Dashboard
 
 Here is an interactive dashboard visualizing the key findings from the analysis.
-(https://github.com/user-attachments/assets/3dc1450f-a4c8-4ffd-8d36-9cba116544fa)
+![](https://github.com/user-attachments/assets/cd304fa0-7290-4750-b31e-058958560734)
 
 ### [➡️ Click here to access the interactive Looker Studio Dashboard](https://lookerstudio.google.com/reporting/b40d16cc-0803-4660-afd6-befe00594e27);
