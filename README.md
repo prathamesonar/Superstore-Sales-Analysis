@@ -1,4 +1,3 @@
-xmscmdc-ql96104.snowflakecomputing.com
 
 # Superstore Sales Analysis with Snowflake and Looker Studio
 
